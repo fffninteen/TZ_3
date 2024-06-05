@@ -21,4 +21,7 @@
 
 ![3](https://github.com/fffninteen/TZ_3/assets/164251870/92703d25-dcfc-4f30-8b77-3c429cc3e2d8)
 
+## Диаграмма №4: Диаграмма деятельности для описания процесса обработки заказа системой (Activity Diagram)
+
+![4](https://github.com/fffninteen/TZ_3/assets/164251870/47659806-ee5d-4e4f-831a-35c6760aad86)
 
