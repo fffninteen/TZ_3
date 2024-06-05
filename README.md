@@ -19,5 +19,6 @@
 
 ## Диаграмма №3: Диаграмма состояний для заказа (State Diagram)
 
-![3](https://github.com/fffninteen/TZ_3/assets/164251870/52068533-3133-4137-9dab-7e096fd11048)
+![3](https://github.com/fffninteen/TZ_3/assets/164251870/92703d25-dcfc-4f30-8b77-3c429cc3e2d8)
+
 
