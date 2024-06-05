@@ -28,6 +28,6 @@
 ## Диаграмма №5: Диаграмма классов для системы (Class Diagram)
 
 ![5](https://github.com/fffninteen/TZ_3/assets/164251870/66fe1ea5-826f-4ef2-a4f9-ac326e8e9d38)
-![5](https://github.com/fffninteen/TZ_3/assets/164251870/66fe1ea5-826f-4ef2-a4f9-ac326e8e9d38)
+
 
 
